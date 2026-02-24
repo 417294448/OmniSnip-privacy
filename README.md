@@ -30,7 +30,6 @@ OmniSnip does not share any data with third parties. All processing happens loca
 ## Permissions
 
 OmniSnip requests the following permissions:
-- `activeTab` - To capture the current webpage
 - `storage` - To save your settings and screenshots locally
 - `downloads` - To save screenshots to your device
 - `scripting` - To enable screenshot functionality
